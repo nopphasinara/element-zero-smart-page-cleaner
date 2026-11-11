@@ -2,7 +2,7 @@
 
 # 🛡️ Element Zero — Smart Page Cleaner
 
-[ภาษาไทย (TH)](./README.md) | [English (EN)](./README_EN.md)
+ [English (EN)](./README.md) | [ภาษาไทย (TH)](./README_TH.md)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/version-4.0-blue.svg" alt="Version">
